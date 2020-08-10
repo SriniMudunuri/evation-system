@@ -8,6 +8,5 @@ Step 3: Please enter positive values for Drive pack, Bottom Bracket and Remote o
 
 Step 4: Click on Check Motor. Please wait for 4 seconds. You will get success message if the output is higher than 85 W & less than 140 W or you will get failure message if test is not passed.
 
-Step 4.1: If you dont enter all the values for fields, you will see the relavent error messaage on the screen.
-
+Step 4.1: If you don’t enter all the values for fields, you will see the relevant error message on the screen after clicking the “Check Motor” button.
  
