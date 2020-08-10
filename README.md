@@ -1,6 +1,7 @@
 # evation-system is built using Java 8 and JavaFX
 
-Step 1: Please import exsting project as maven
+Step 1: Please clone the project from this repository https://github.com/SriniMudunuri/evation-system.git and import existing project as maven.
+        Github URL is https://github.com/SriniMudunuri/evation-system
 
 Step 2: Run MotorTestUI.java as Java Application
 
